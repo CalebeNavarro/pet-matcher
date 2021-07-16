@@ -21,6 +21,7 @@ export const Panel6Div = styled.div`
     font-size: 20px;
     color: #8b8b8b;
     margin: 10px 0;
+    font-weight: 300;
   }
 
   @media screen and (min-width: 768px) and (max-width: 1023px) {

@@ -9,6 +9,7 @@ export const Panel1Div = styled.div`
     rgba(255, 230, 0, 0.7) 73.05%,
     rgba(255, 230, 0, 0) 100%
   );
+
   border-radius: 100px 100px 0px 0px;
   display: flex;
   flex-direction: row-reverse;
