@@ -36,7 +36,7 @@ export const ImgPlus = styled.img`
 `;
 
 export const ImgSimbol = styled.img`
-  width: 100px;
+  width: 65px;
   margin: 20px;
 
   @media screen and (min-width: 768px) and (max-width: 1023px) {

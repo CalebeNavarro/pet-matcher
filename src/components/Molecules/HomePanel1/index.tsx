@@ -10,9 +10,9 @@ const HomePanel1 = () => {
       <Panel1Div>
         <img src={dogHome} />
         <div>
-          <h2>Encontre o amigo </h2>
-          <h2>ideal para voçê</h2>
-          <h4>Ajude a fazer uma boa ação</h4>
+          <h2>Encontre o Amigo </h2>
+          <h2>Ideal para Você!</h2>
+          <h4>Ajude a fazer uma Boa Ação.</h4>
           <Link to="/signup">
             <ButtonHome
               label="REGISTRE-SE"
